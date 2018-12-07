@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542887580 source:c:\tugas\algoritma\kalkulator\main.cpp
+	<iostream>
+	<conio.h>
+
